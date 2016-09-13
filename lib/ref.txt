@@ -1,0 +1,6 @@
+http://www.rlmseo.com/blog/codeigniter-library-80-free-addons-tutorials-and-videos/
+http://ultimascripter.blogspot.com/2013/09/10-awesome-codeigniter-libraries-you.html
+
+
+FACEBOOK AUTHENTICATION
+https://github.com/andacata/HybridIgniter
